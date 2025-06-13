@@ -1,6 +1,7 @@
 import Image from "next/image";
 
 import msg from "../../assets/message.png";
+// import msgr from "../../assets/HomeReview.png";
 
 export const Message: React.FC<{title: string, message: string}> = ({title, message}) => {
 
@@ -33,3 +34,4 @@ export const Message: React.FC<{title: string, message: string}> = ({title, mess
         </div>
     );
 };
+

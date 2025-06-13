@@ -9,10 +9,10 @@ import { Navigation } from "swiper/modules";
 import "swiper/css";
 
 import { CaseSlide } from "./UI/CaseSlide";
-
+//
 import { Tab } from "./UI/Tab";
 
-import { Message } from "./UI/Message";
+import { HomeTestimonial } from "./UI/HomeTestimonial";
 
 import arrow from "../assets/small-arrow.svg";
 
@@ -60,16 +60,16 @@ export default function Examples() {
                 <div className="flex justify-start md:justify-center items-center relative">
                     <div className="flex md:w-2/3 flex-col lg:flex-row gap-36 md:gap-8 lg:gap-0 w-full items-center">
                         <div className="mr-auto md:mr-0">
-                            <Tab name="Кейсы" />
+                            <Tab name={tr.tab} />
                         </div>
                         <h2 className="text-3xl md:text-4xl lg:text-5xl xl:text-6xl !text-[#262B3A] lg:mx-auto">
-                            Наши проекты
+                            {tr.title}
                         </h2>
                     </div>
                     <div className="absolute w-full md:w-fit flex justify-center md:block md:static md:-translate-y-10">
-                        <Message
+                        <HomeTestimonial
                             title={tr.message.title}
-                            message={tr.message.content}
+                            message={tr.message.content} 
                         />
                     </div>
                 </div>

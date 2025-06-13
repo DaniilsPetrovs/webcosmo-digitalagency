@@ -11,13 +11,15 @@ export const ArticleSlide: React.FC<{
     return (
         <div className="article-slide flex flex-col gap-4 w-full max-w-[490px] 2xl:max-w-[550px]">
             <div className="relative">
+                <Link href={link}>
                 <div className="pointer-events-none mask-review-slide rounded-xl graident-main min-h-[300px] md:min-h-[350px] xl:min-h-[420px]">
                     <Image
-                        className={`absolute -bottom-1/3 -left-1/4`}
+                        className={`absolute`}
                         src={imgUrl ? imgUrl : ""}
                         alt="image"
                     />
                 </div>
+                </Link>
                 <Link href={link} className="absolute bottom-0 right-0 w-12 h-12 sm:w-14 sm:h-14 xl:w-14 xl:h-14 2xl:w-16 2xl:h-16 !rounded-xl btn btn-white aspect-square flex justify-center items-center">
                     <svg
                         width="16"

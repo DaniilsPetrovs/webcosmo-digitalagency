@@ -1,20 +1,24 @@
-import Image from "next/image";
+import Image, { StaticImageData } from "next/image";
 
-import girl from "../../assets/girl.png";
+import review1 from "../../assets/Nikolay-Semeniuta.png";
+import review2 from "../../assets/review2.png";
+
+
+
 
 export const ReviewSlide: React.FC<{
     url: string;
-    img?: string;
+    img?: StaticImageData;
     name: string;
     job: string;
-}> = ({ url, name, job, img = girl }) => {
+}> = ({ url, name, job, img = review1}) => {
     return (
         <a href={url} target="_blank" className="review-slide">
             <div className="rounded-xl relative mask-review-slide">
                 <Image
                     className="w-full  min-h-[370px] object-cover"
                     src={img}
-                    alt="girl"
+                    alt="image"
                 />
                 <div style={{translate: "-50% -50%"}} className="play opacity-0 absolute rounded-xl overflow-hidden left-1/2 top-1/2 w-16 h-16 bg-white/10 backdrop-blur-3xl flex items-center justify-center">
                     <svg

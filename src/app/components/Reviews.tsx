@@ -12,6 +12,19 @@ import Image from "next/image";
 import { useLang } from "../context/LangContext";
 import languages from "../data/lang";
 
+import review1 from "../assets/Nikolay-Semeniuta.png";
+import review2 from "../assets/review2.png";
+import review3 from "../assets/review3.png";
+import review4 from "../assets/review4.png";
+import type { StaticImageData } from "next/image";
+
+const imageMap: Record<string, StaticImageData> = {
+    photo1: review1,
+    photo2: review2,
+    photo3: review4,
+    photo4: review3,
+};
+
 export default function Reviews() {
     const { lang } = useLang();
     //@ts-ignore
@@ -60,7 +73,14 @@ export default function Reviews() {
                                     name={slide.name}
                                     job={slide.job}
                                     url={slide.url}
+                                    img={imageMap[slide.img]} // ← добавили img сюда
                                 />
+
+                                {/* <ReviewSlide
+                                    name={slide.name}
+                                    job={slide.job}
+                                    url={slide.url}
+                                /> */}
                             </SwiperSlide>
                         ))}
                     </Swiper>

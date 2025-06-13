@@ -67,6 +67,8 @@ export default function Navbar() {
         }
     };
 
+    
+
     //@ts-ignore
     const tr = languages[lang].navbar;
 
@@ -130,12 +132,14 @@ export default function Navbar() {
                     onClick={() => click()}
                     className="order-3 md:order-2 w-full md:w-fit btn btn-transparent !text-[#262B3A] text-right btn-arrow md:text-center px-4 md:!px-4 text-sm 2xl:text-base py-1.5 border-1 md:border-0 !border-slate-200 md:!border-white/10 md:py-4 md:!text-white"
                 >
-                    <p className="mx-auto md:mx-0"> +7 (495) 229-01-61</p>
+                    <p className="mx-auto md:mx-0">+371 20024614</p>
                     <span className="block md:hidden ml-auto">
                         <Image src={smallarrow} alt="smallarrow" />
                     </span>
                 </button>
                 <div className="order-3 absolute top-2 right-18 md:static flex text-sm 2xl:text-base justify-end">
+                    
+              
                     <Dropdown
                         options={["RUS", "LV", "EN"]}
                         onChange={(lang: string) => setLang(lang)}

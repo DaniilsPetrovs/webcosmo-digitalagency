@@ -1,4 +1,4 @@
-import Image from "next/image";
+import Image, { StaticImageData } from "next/image";
 
 import { Tab } from "./UI/Tab";
 
@@ -8,7 +8,7 @@ export const Achievements: React.FC<{
     titleBluePart: string;
     titleBlackPart: string;
     tab: string;
-    imgUrl: string;
+    imgUrl: StaticImageData;
     content: { title: string; text: string }[];
 }> = ({ titleBluePart, titleBlackPart, tab, imgUrl, content }) => {
     return (
