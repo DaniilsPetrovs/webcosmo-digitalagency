@@ -265,7 +265,7 @@ export const en = {
     caseFungypack: {
         title: "Fungypack – an innovative NFT platform",
         aboutClient: {
-            heading: "About the client",
+            heading: "About client",
             description:
                 "An innovative platform for expanding NFT functionality, integrating with the Solana blockchain, and offering users unique bonuses, rewards, and staking opportunities.",
         },
@@ -430,7 +430,7 @@ export const en = {
     webcase1: {
         title: "Yoso – web platform for task automation and developming",
         aboutClient: {
-            heading: "About the client",
+            heading: "About client",
             description:
                 "Yoso is a B2B digital service helping businesses automate workflows, collect analytics, and track progress. The interface targets small and mid-sized companies.",
         },
@@ -571,7 +571,7 @@ export const en = {
     webcase2: {
         title: "Dandimos – clothing eCommerce in Old Money style",
         aboutClient: {
-            heading: "About the client",
+            heading: "About client",
             description:
                 "A menswear brand focused on Old Money aesthetics. The client needed a branded eCommerce site with a sleek catalog, stylish visuals, and a stable mobile version.",
         },
@@ -711,7 +711,7 @@ export const en = {
     webcase3: {
         title: "Foodio – website for restaurant with online booking",
         aboutClient: {
-            heading: "About the client",
+            heading: "About client",
             description:
                 "Foodio is a fine dining restaurant known for its ambiance and service. The client needed a stylish site with menu browsing and table booking functionality.",
         },
@@ -849,7 +849,7 @@ export const en = {
 webcase4: {
     title: "Archavia – architecture studio website",
     aboutClient: {
-        heading: "About the client",
+        heading: "About client",
         description:
             "Archavia is a studio specializing in high-end residential and commercial architecture. The goal was to craft a site reflecting their aesthetics, style, and professionalism.",
     },
@@ -987,7 +987,7 @@ webcase4: {
             webcase5: {
                 title: "Kings Barber Club – stylish website for a barbershop",
                 aboutClient: {
-                    heading: "About the client",
+                    heading: "About client",
                     description:
                         "Kings Barber Club is a premium barbershop known for its masculine vibe, top-tier service, and client loyalty. The goal was to build a stylish image-driven website with online booking.",
                 },
@@ -1127,7 +1127,7 @@ webcase4: {
                 webcase6: {
                     title: "Lavisha – premium cleaning service website",
                     aboutClient: {
-                        heading: "About the client",
+                        heading: "About client",
                         description:
                             "Lavisha is a cleaning company offering premium services for homes, offices, and commercial spaces. The goal was to build a site that reflects the service level and automates bookings.",
                     },
@@ -1267,7 +1267,7 @@ webcase4: {
                 webcase7: {
                     title: "Physivex – website for a physical rehab clinic full recovery",
                     aboutClient: {
-                        heading: "About the client",
+                        heading: "About client",
                         description:
                             "Physivex is a clinic offering post-injury and post-surgery recovery services. The project goal was to build a site that shows professionalism and simplifies patient appointments.",
                     },
@@ -1408,7 +1408,7 @@ webcase4: {
                 webcase8: {
                     title: "Junova – premium nail product eCommerce site",
                     aboutClient: {
-                        heading: "About the client",
+                        heading: "About client",
                         description:
                             "Junova is a professional cosmetics brand for nail technicians. The goal was to build a visual eCommerce site focused on product display and catalog usability for salons and masters.",
                     },
@@ -1551,7 +1551,7 @@ webcase4: {
 botscase1: {
     title: "Lucky Gifts – Telegram mini app with prizes & points",
     aboutClient: {
-        heading: "About the client",
+        heading: "About client",
         description:
             "Lucky Gifts is a gamified Telegram mini app featuring random prize drops, star points, and a demo mode. The platform runs giveaways with adjustable odds to boost user engagement and activity.",
     },
@@ -1691,7 +1691,7 @@ botscase1: {
 botscase2: {
     title: "dAdex – Telegram mini app for Web3 drops & tokens",
     aboutClient: {
-        heading: "About the client",
+        heading: "About client",
         description:
             "dAdex is a Telegram-based Web3 mini app for drops, token distribution, and user engagement. It was developed as an MVP to validate the idea and test it within the crypto community.",
     },
@@ -1830,7 +1830,7 @@ botscase2: {
 botscase3: {
     title: "AI & Games – Telegram Mini App with AI & interactive games",
     aboutClient: {
-        heading: "About the client",
+        heading: "About client",
         description:
             "AI & Games is a multifunctional Telegram mini app combining game mechanics, AI chat interfaces, and an internal economy. The goal was to build an engaging entertainment product with flexible modular architecture.",
     },
@@ -1971,7 +1971,7 @@ botscase3: {
 botscase4: {
     title: "Business Mini Apps – Telegram apps for eCom & services",
     aboutClient: {
-        heading: "About the client",
+        heading: "About client",
         description:
             "We developed a suite of Telegram Mini Apps for businesses offering services, delivery, merch sales, and more. Each app was tailored to business needs, including catalog, cart, checkout, and payment features.",
     },
@@ -2109,7 +2109,7 @@ botscase4: {
 web3case1: {
     title: "IKO – platform with tokenomics & analytics",
     aboutClient: {
-        heading: "About the client",
+        heading: "About client",
         description:
             "IKO is a platform for evaluating and calculating investment product returns, with crypto-economy, NFT and token integrations. Built for Web3- and DeFi-oriented users.",
     },
@@ -2246,7 +2246,7 @@ web3case1: {
 web3case2: {
     title: "XECO – Web3 platform with ICO chart & marketplace",
     aboutClient: {
-        heading: "About the client",
+        heading: "About client",
         description:
             "XECO is a Web3 platform with a live token chart, smart contract integration, and token management tools. Users can track ICOs, join drops, and manage digital assets in one place.",
     },
@@ -2383,7 +2383,7 @@ web3case2: {
 web3case3: {
     title: "Ironix – landing page for a Web3 investment startup",
     aboutClient: {
-        heading: "About the client",
+        heading: "About client",
         description:
             "Ironix is a Web3 startup focused on tokenized investment instruments. The client needed a single-page landing site to introduce the project, present tokenomics, and attract investor interest.",
     },
@@ -2520,7 +2520,7 @@ web3case3: {
 web3case4: {
     title: "Shakey – Web3 app for activity-based gamification",
     aboutClient: {
-        heading: "About the client",
+        heading: "About client",
         description:
             "Shakey is a Web3 platform that turns users’ real-life activity into digital rewards. By completing daily tasks and physical challenges, users earn NFT badges and tokens, building up progress and engagement on-chain.",
     },
@@ -2658,7 +2658,7 @@ web3case4: {
 web3case5: {
     title: "Fungypack – innovative NFT platform",
     aboutClient: {
-        heading: "About the client",
+        heading: "About client",
         description:
             "Fungypack is an innovative platform that enhances NFT functionality, integrates with the Solana blockchain, and provides users with unique bonuses, rewards, and staking opportunities.",
     },
@@ -2796,7 +2796,7 @@ web3case5: {
 web3case6: {
     title: "Bebra Labs – Web3 R&D platform and innovation hub",
     aboutClient: {
-        heading: "About the client",
+        heading: "About client",
         description:
             "Bebra Labs is a research and product-focused Web3 lab. The team builds and tests new decentralization mechanics, pilots tokenomics models, and creates tools for the broader blockchain ecosystem.",
     },
@@ -2935,7 +2935,7 @@ web3case6: {
 uiuxcase1: {
     title: "UI/UX Design for E-commerce Mobile Application",
     aboutClient: {
-        heading: "About the client",
+        heading: "About client",
         description:
             "An e-commerce startup focused on selling fashion and accessories across Europe. The client approached us to design the UX for a mobile app including product pages, filtering, and cart logic.",
     },
@@ -3073,7 +3073,7 @@ uiuxcase1: {
 uiuxcase2: {
     title: "UI/UX Design for Habit & Productivity Tracker Application",
     aboutClient: {
-        heading: "About the client",
+        heading: "About client",
         description:
             "A digital wellbeing startup focused on helping users build healthy habits, track progress, and structure their daily routines. The client requested UX design for a mobile app with an intuitive interface.",
     },
@@ -3213,7 +3213,7 @@ uiuxcase2: {
 uiuxcase3: {
     title: "UI/UX Design for Fitness App with AI Coach",
     aboutClient: {
-        heading: "About the client",
+        heading: "About client",
         description:
             "A fitness startup developing a mobile app powered by an AI coach. The goal is to create personalized workout plans based on user goals and visualize progress through animations and recommendations.",
     },
@@ -3353,7 +3353,7 @@ uiuxcase3: {
 uiuxcase4: {
     title: "UI/UX Design for a Mindfulness & Wellness App",
     aboutClient: {
-        heading: "About the client",
+        heading: "About client",
         description:
             "A product team developing an app focused on stress management, sleep, and emotional wellbeing. The goal was to create a calm, minimalist UX design including habit tracking, meditation content, and a personal journal.",
     },
@@ -3490,7 +3490,7 @@ uiuxcase4: {
 mobilecase1: {
     title: "E-commerce App from Scratch for iOS & Android",
     aboutClient: {
-        heading: "About the client",
+        heading: "About client",
         description:
             "A retail company specializing in clothing and accessories approached us to build a mobile app with shopping cart logic, product catalog, payments, and push notifications.",
     },
@@ -3627,7 +3627,7 @@ mobilecase1: {
 mobilecase2: {
     title: "Music App Development with Custom Player",
     aboutClient: {
-        heading: "About the client",
+        heading: "About client",
         description:
             "A music startup offering playlists, exclusive tracks, and personalized recommendations. The client needed a fully functional mobile app with offline mode and custom player features.",
     },
@@ -3764,7 +3764,7 @@ mobilecase2: {
 mobilecase3: {
     title: "Smart Home – IoT Device Management App",
     aboutClient: {
-        heading: "About the client",
+        heading: "About client",
         description:
             "An IoT company that developed a smart home device line. We created a mobile app to manage lighting, climate, security, and automation scenarios.",
     },
@@ -3901,7 +3901,7 @@ mobilecase3: {
 mobilecase4: {
     title: "Elemento — Physics Learning Mobile Application",
     aboutClient: {
-        heading: "About the client",
+        heading: "About client",
         description:
             "An educational project aimed at making physics easier for school and university students. The app combines a reference library, visual formulas, and step-by-step explanations.",
     },

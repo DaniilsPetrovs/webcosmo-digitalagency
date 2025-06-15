@@ -206,7 +206,7 @@ export const lv = {
     },
     footer: {
         nav: {
-            about: "Par mums",
+            about: "Mēs",
             services: "Pakalpojumi",
             cases: "Projekti",
             reviews: "Atsauksmes",
