@@ -60,8 +60,8 @@ export default function Solutions() {
                                     )}
                                 </ul>
 
-                                <div className="mt-8 2xl:mt-10 flex justify-end">
-                                    <a href="#cta" className="btn btn-transparent btn-arrow w-full justify-center md:w-fit !py-1 !pl-6 !pr-1.5 ">
+                                <div className="mt-8 2xl:mt-10 flex justify-end ">
+                                    <a style={{ pointerEvents: "auto" }} href="#cta" className="btn btn-transparent btn-arrow w-full justify-center md:w-fit !py-1 !pl-6 !pr-1.5 ">
                                         <p className="mx-auto md:mx-0">{tr.more}</p>
                                         <span>
                                             <Image src={arrow} alt="arrow" />
