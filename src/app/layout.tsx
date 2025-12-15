@@ -5,22 +5,22 @@ import { LangProvider } from "./context/LangContext";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "WebCosmo - Digital Agency",
+  title: "eCommerce & Web Development Agency | WebCosmo",
   description:
-    "Webcosmo is a leading Web and Web3 development agency specializing in cutting-edge websites, blockchain solutions, and smart contract development.",
+    "WebCosmo is a leading ecommerce and web development agency building high-performance websites, scalable ecommerce platforms, and blockchain-powered digital solutions.",
   keywords:
     "web development, web3 development, blockchain, digital agency, smart contract development, decentralized applications, creative design, UI/UX, Webcosmo",
   authors: [{ name: "Webcosmo" }],
   robots: "index, follow",
   icons: {
-    icon: "/favicon.png",
-    apple: "/favicon.png",
+    icon: "/icon.svg",
+    apple: "/icon.svg",
   },
   manifest: "/site.webmanifest",
   openGraph: {
-    title: "WebCosmo - Digital Agency",
+    title: "eCommerce & Web Development Agency | WebCosmo",
     description:
-      "Webcosmo offers innovative web and Web3 development solutions, from responsive websites to blockchain integrations and dApp development.",
+      "WebCosmo is a leading ecommerce and web development agency building high-performance websites, scalable ecommerce platforms, and blockchain-powered digital solutions.",
     url: "https://thewebcosmo.com",
     type: "website",
     images: [
